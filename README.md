@@ -1,5 +1,5 @@
 ## Temperature chart
-### 预览：[在线预览](https://centuryeggs.github.io/temperature-chart/)
+### 预览：[在线预览](https://leeyahui.github.io/temperature-chart/)
 ![](./preview.jpg)
 
 ### 使用：
